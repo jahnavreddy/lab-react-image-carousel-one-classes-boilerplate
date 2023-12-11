@@ -10,6 +10,6 @@ export default class App extends Component {
       <div className="App">
         <Carousel />
       </div>
-    );
+    )
   }
 }
